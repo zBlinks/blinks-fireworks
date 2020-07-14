@@ -1,0 +1,7 @@
+{
+    "sketch": "fireworks.ino",
+    "board": "Move38-manual:avr:blink",
+    "programmer": "USBtinyISP",
+    "port": "COM5",
+    "output": "./out"
+}

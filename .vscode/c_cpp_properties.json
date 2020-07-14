@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${userprofile}/Documents/Arduino/hardware/Move38-manual/avr/**",
+                "C:/repos/Blinks/Blinks-SDK/cores/blinklib/**"
+            ],
+            "defines": [
+                "F_CPU=8000000L",
+                "ARDUINO=10813",
+                "ARDUINO_AVR_BLINK",
+                "ARDUINO_ARCH_AVR"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
