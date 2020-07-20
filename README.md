@@ -7,4 +7,4 @@
  - This is my first attempt at Blinks, and last time I used C++ was ~15 yrs ago! So take it with a piece of salt and let me know if there is a better way of doing things.
  - I was trying to create sort of a framework for easier future expriments...not sure if I succeeded though. Files under fx folder.
  - StateMachine based, with support for delayed state transitions allowing you to control speed of animation.
- - There is a nice debug utility there (fx/dbg.h)
+ - There is a nice debug utility there (fx/dbg.h) - designed to work with [Termethos](https://www.termethos.com).
